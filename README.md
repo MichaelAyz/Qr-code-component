@@ -13,7 +13,7 @@ Thanks for checking out this front-end coding challenge.
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
-The challenge is hosted here : https://app.netlify.com/sites/ayz-qr-code
+The challenge is hosted here : https://ayz-qr-code.netlify.app
 
 Feel free to check it out!.
 
